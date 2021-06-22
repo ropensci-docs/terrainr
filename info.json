@@ -1,0 +1,12 @@
+{
+  "commit": {
+    "commit": "22b38c1ffd0bf23408a285c1f7108b6004fee243",
+    "author": "Mike Mahoney <mike.mahoney.218@gmail.com>",
+    "time": "2021-06-22 15:55:25",
+    "files": 4,
+    "merge": false,
+    "message": "Fix test suite\n"
+  },
+  "remote": "https://github.com/ropensci/terrainr",
+  "pkg": "terrainr"
+}

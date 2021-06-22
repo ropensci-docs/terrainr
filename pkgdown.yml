@@ -1,0 +1,11 @@
+pandoc: '2.5'
+pkgdown: 1.6.1
+pkgdown_sha: ~
+articles:
+  overview: overview.html
+  unity_instructions: unity_instructions.html
+last_built: 2021-07-08T13:08Z
+urls:
+  reference: https://docs.ropensci.org/terrainr/reference
+  article: https://docs.ropensci.org/terrainr/articles
+
