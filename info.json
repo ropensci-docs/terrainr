@@ -1,0 +1,12 @@
+{
+  "commit": {
+    "commit": "36fc069cb05dbcb44ff358858f5544863d506aee",
+    "author": "Mike Mahoney <mike.mahoney.218@gmail.com>",
+    "time": "2023-10-04 13:15:20",
+    "files": 1,
+    "merge": false,
+    "message": "Turn off tests on CRAN\n"
+  },
+  "repo": "https://github.com/ropensci/terrainr",
+  "pkg": "terrainr"
+}
