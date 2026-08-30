@@ -1,0 +1,32 @@
+# terrainr: Landscape Visualizations in R and 'Unity'
+
+Functions for the retrieval, manipulation, and visualization of
+'geospatial' data, with an aim towards producing '3D' landscape
+visualizations in the 'Unity' '3D' rendering engine. Functions are also
+provided for retrieving elevation data and base map tiles from the
+'USGS' National Map <https://apps.nationalmap.gov/services/>.
+
+## See also
+
+Useful links:
+
+- <https://docs.ropensci.org/terrainr/>
+
+- <https://github.com/ropensci/terrainr>
+
+- Report bugs at <https://github.com/ropensci/terrainr/issues>
+
+## Author
+
+**Maintainer**: Michael Mahoney <mike.mahoney.218@gmail.com>
+([ORCID](https://orcid.org/0000-0003-2402-304X))
+
+Other contributors:
+
+- Mike Johnson (Mike reviewed the package (v. 0.2.1) for rOpenSci, see
+  \<https://github.com/ropensci/software-review/issues/416\>)
+  \[reviewer\]
+
+- Sydney Foks (Sydney reviewed the package (v. 0.2.1) for rOpenSci, see
+  \<https://github.com/ropensci/software-review/issues/416\>)
+  \[reviewer\]

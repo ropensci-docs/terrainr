@@ -1,0 +1,13 @@
+{
+  "commit": {
+    "commit": "333db1ceedea5d1cf8cc8050a6dcb6bfeb66707f",
+    "author": "Mike Mahoney <mike.mahoney.218@gmail.com>",
+    "time": "2025-07-25T11:56:04Z",
+    "files": 21,
+    "merge": false,
+    "message": "Prep release\n"
+  },
+  "repo": "https://github.com/ropensci/terrainr",
+  "pkg": "terrainr",
+  "time": "2026-08-30T07:34:49Z"
+}
